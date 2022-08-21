@@ -3,5 +3,5 @@ from . import views
 
 # URLConf
 urlpatterns = [
-    path('playgroud/hello', views.say_hello)
+    path('hello/', views.say_hello)
 ]

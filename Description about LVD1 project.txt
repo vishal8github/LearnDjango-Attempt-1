@@ -6,6 +6,9 @@ Prerequisites:
 	Python
 	Relational database
 
+DESCRIPTION:
+	This project is used to print "Hello Wolrd" in browser
+
 reference:
 	video link:
 		https://www.youtube.com/watch?v=rHux0gMZ3Eg
